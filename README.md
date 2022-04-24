@@ -1,5 +1,3 @@
-# OLAMUNDO
-# Olá, Mundo!
- Primeiro repositório versionado
- +
-Repositório feito em uma aula
+# Olá, mundo!
+Primeiro repositório versionado
+Repositório feito em uma aula!
